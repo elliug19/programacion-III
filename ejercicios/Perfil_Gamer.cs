@@ -10,7 +10,7 @@ using System.Threading.Tasks;
  * Al final, muestra un mensaje personalizado que le dé la bienvenida a su nivel correspondiente.
  */
 
-namespace Ejercicios_basicos.Ejercicios_basicos
+namespace ejercicios
 {
     internal class Perfil_Gamer
     {

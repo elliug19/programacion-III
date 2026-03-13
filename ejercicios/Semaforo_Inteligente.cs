@@ -8,7 +8,7 @@ using System.Threading.Tasks;
  * Si es verde, imprime "Sigue adelante"; si es amarillo, "Prepárate para frenar"; y si es rojo, "¡Distensión!".
  */
 
-namespace Ejercicios_basicos.Ejercicios_basicos
+namespace ejercicios
 {
     internal class Semaforo_Inteligente
     {

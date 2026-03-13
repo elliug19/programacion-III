@@ -1,0 +1,2 @@
+C:\Users\luisc\Documents\GitHub\programacion-III\ejercicios\obj\Debug\ejercicios.csproj.AssemblyReference.cache
+C:\Users\luisc\Documents\GitHub\programacion-III\ejercicios\obj\Debug\ejercicios.csproj.CoreCompileInputs.cache
