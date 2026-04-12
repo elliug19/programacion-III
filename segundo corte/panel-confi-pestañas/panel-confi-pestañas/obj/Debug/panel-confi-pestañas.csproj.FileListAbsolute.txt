@@ -1,0 +1,10 @@
+C:\Users\sanch\Documents\GitHub\programacion-III\segundo corte\panel-confi-pestañas\panel-confi-pestañas\bin\Debug\panel-confi-pestañas.exe.config
+C:\Users\sanch\Documents\GitHub\programacion-III\segundo corte\panel-confi-pestañas\panel-confi-pestañas\bin\Debug\panel-confi-pestañas.exe
+C:\Users\sanch\Documents\GitHub\programacion-III\segundo corte\panel-confi-pestañas\panel-confi-pestañas\bin\Debug\panel-confi-pestañas.pdb
+C:\Users\sanch\Documents\GitHub\programacion-III\segundo corte\panel-confi-pestañas\panel-confi-pestañas\obj\Debug\panel-confi-pestañas.csproj.AssemblyReference.cache
+C:\Users\sanch\Documents\GitHub\programacion-III\segundo corte\panel-confi-pestañas\panel-confi-pestañas\obj\Debug\panel_confi_pestañas.Form1.resources
+C:\Users\sanch\Documents\GitHub\programacion-III\segundo corte\panel-confi-pestañas\panel-confi-pestañas\obj\Debug\panel_confi_pestañas.Properties.Resources.resources
+C:\Users\sanch\Documents\GitHub\programacion-III\segundo corte\panel-confi-pestañas\panel-confi-pestañas\obj\Debug\panel-confi-pestañas.csproj.GenerateResource.cache
+C:\Users\sanch\Documents\GitHub\programacion-III\segundo corte\panel-confi-pestañas\panel-confi-pestañas\obj\Debug\panel-confi-pestañas.csproj.CoreCompileInputs.cache
+C:\Users\sanch\Documents\GitHub\programacion-III\segundo corte\panel-confi-pestañas\panel-confi-pestañas\obj\Debug\panel-confi-pestañas.exe
+C:\Users\sanch\Documents\GitHub\programacion-III\segundo corte\panel-confi-pestañas\panel-confi-pestañas\obj\Debug\panel-confi-pestañas.pdb
