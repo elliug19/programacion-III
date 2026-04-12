@@ -1,0 +1,6 @@
+C:\Users\sanch\Desktop\Guille-trabajos\programacion-III\segundo corte\informacioon-personal\informacioon-personal\obj\Debug\informacioon-personal.csproj.AssemblyReference.cache
+C:\Users\sanch\Desktop\Guille-trabajos\programacion-III\segundo corte\informacioon-personal\informacioon-personal\obj\Debug\informacion_personal.Form1.resources
+C:\Users\sanch\Desktop\Guille-trabajos\programacion-III\segundo corte\informacioon-personal\informacioon-personal\obj\Debug\informacioon_personal.Properties.Resources.resources
+C:\Users\sanch\Desktop\Guille-trabajos\programacion-III\segundo corte\informacioon-personal\informacioon-personal\obj\Debug\informacioon-personal.csproj.GenerateResource.cache
+C:\Users\sanch\Desktop\Guille-trabajos\programacion-III\segundo corte\informacioon-personal\informacioon-personal\obj\Debug\informacioon-personal.csproj.CoreCompileInputs.cache
+C:\Users\sanch\Desktop\Guille-trabajos\programacion-III\segundo corte\informacioon-personal\informacioon-personal\obj\Debug\informacioon_personal.Form1.resources

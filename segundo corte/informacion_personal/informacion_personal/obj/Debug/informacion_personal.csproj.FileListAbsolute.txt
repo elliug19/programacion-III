@@ -1,0 +1,20 @@
+C:\Users\sanch\source\repos\informacion_personal\informacion_personal\bin\Debug\informacion_personal.exe.config
+C:\Users\sanch\source\repos\informacion_personal\informacion_personal\bin\Debug\informacion_personal.exe
+C:\Users\sanch\source\repos\informacion_personal\informacion_personal\bin\Debug\informacion_personal.pdb
+C:\Users\sanch\source\repos\informacion_personal\informacion_personal\obj\Debug\informacion_personal.csproj.AssemblyReference.cache
+C:\Users\sanch\source\repos\informacion_personal\informacion_personal\obj\Debug\informacion_personal.Form1.resources
+C:\Users\sanch\source\repos\informacion_personal\informacion_personal\obj\Debug\informacion_personal.Properties.Resources.resources
+C:\Users\sanch\source\repos\informacion_personal\informacion_personal\obj\Debug\informacion_personal.csproj.GenerateResource.cache
+C:\Users\sanch\source\repos\informacion_personal\informacion_personal\obj\Debug\informacion_personal.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\informacion_personal\informacion_personal\obj\Debug\informacion_personal.exe
+C:\Users\sanch\source\repos\informacion_personal\informacion_personal\obj\Debug\informacion_personal.pdb
+C:\Users\sanch\Desktop\Guille-trabajos\programacion-III\segundo corte\informacion_personal\informacion_personal\bin\Debug\informacion_personal.exe.config
+C:\Users\sanch\Desktop\Guille-trabajos\programacion-III\segundo corte\informacion_personal\informacion_personal\bin\Debug\informacion_personal.exe
+C:\Users\sanch\Desktop\Guille-trabajos\programacion-III\segundo corte\informacion_personal\informacion_personal\bin\Debug\informacion_personal.pdb
+C:\Users\sanch\Desktop\Guille-trabajos\programacion-III\segundo corte\informacion_personal\informacion_personal\obj\Debug\informacion_personal.csproj.AssemblyReference.cache
+C:\Users\sanch\Desktop\Guille-trabajos\programacion-III\segundo corte\informacion_personal\informacion_personal\obj\Debug\informacion_personal.Form1.resources
+C:\Users\sanch\Desktop\Guille-trabajos\programacion-III\segundo corte\informacion_personal\informacion_personal\obj\Debug\informacion_personal.Properties.Resources.resources
+C:\Users\sanch\Desktop\Guille-trabajos\programacion-III\segundo corte\informacion_personal\informacion_personal\obj\Debug\informacion_personal.csproj.GenerateResource.cache
+C:\Users\sanch\Desktop\Guille-trabajos\programacion-III\segundo corte\informacion_personal\informacion_personal\obj\Debug\informacion_personal.csproj.CoreCompileInputs.cache
+C:\Users\sanch\Desktop\Guille-trabajos\programacion-III\segundo corte\informacion_personal\informacion_personal\obj\Debug\informacion_personal.exe
+C:\Users\sanch\Desktop\Guille-trabajos\programacion-III\segundo corte\informacion_personal\informacion_personal\obj\Debug\informacion_personal.pdb
