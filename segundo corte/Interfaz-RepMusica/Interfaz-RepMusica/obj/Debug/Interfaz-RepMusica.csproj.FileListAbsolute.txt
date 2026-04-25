@@ -1,0 +1,10 @@
+C:\Users\sanch\Documents\GitHub\programacion-III\segundo corte\Interfaz-RepMusica\Interfaz-RepMusica\bin\Debug\Interfaz-RepMusica.exe.config
+C:\Users\sanch\Documents\GitHub\programacion-III\segundo corte\Interfaz-RepMusica\Interfaz-RepMusica\bin\Debug\Interfaz-RepMusica.exe
+C:\Users\sanch\Documents\GitHub\programacion-III\segundo corte\Interfaz-RepMusica\Interfaz-RepMusica\bin\Debug\Interfaz-RepMusica.pdb
+C:\Users\sanch\Documents\GitHub\programacion-III\segundo corte\Interfaz-RepMusica\Interfaz-RepMusica\obj\Debug\Interfaz-RepMusica.csproj.AssemblyReference.cache
+C:\Users\sanch\Documents\GitHub\programacion-III\segundo corte\Interfaz-RepMusica\Interfaz-RepMusica\obj\Debug\Interfaz_RepMusica.Form1.resources
+C:\Users\sanch\Documents\GitHub\programacion-III\segundo corte\Interfaz-RepMusica\Interfaz-RepMusica\obj\Debug\Interfaz_RepMusica.Properties.Resources.resources
+C:\Users\sanch\Documents\GitHub\programacion-III\segundo corte\Interfaz-RepMusica\Interfaz-RepMusica\obj\Debug\Interfaz-RepMusica.csproj.GenerateResource.cache
+C:\Users\sanch\Documents\GitHub\programacion-III\segundo corte\Interfaz-RepMusica\Interfaz-RepMusica\obj\Debug\Interfaz-RepMusica.csproj.CoreCompileInputs.cache
+C:\Users\sanch\Documents\GitHub\programacion-III\segundo corte\Interfaz-RepMusica\Interfaz-RepMusica\obj\Debug\Interfaz-RepMusica.exe
+C:\Users\sanch\Documents\GitHub\programacion-III\segundo corte\Interfaz-RepMusica\Interfaz-RepMusica\obj\Debug\Interfaz-RepMusica.pdb

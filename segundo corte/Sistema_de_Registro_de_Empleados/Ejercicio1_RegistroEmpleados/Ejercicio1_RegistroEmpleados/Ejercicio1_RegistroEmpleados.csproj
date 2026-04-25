@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>Ejercicio1_RegistroEmpleados</AssemblyName>
+    <RootNamespace>Ejercicio1_RegistroEmpleados</RootNamespace>
+  </PropertyGroup>
+</Project>
